@@ -166,8 +166,8 @@ address {
 
 a {
   background-color: transparent;
-  text-decoration: none;
-  color: inherit;
+  /* color: inherit; */
+  color:#1a0dab;
 }
 
 /**
